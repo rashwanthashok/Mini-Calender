@@ -16,7 +16,7 @@ Rashwanth Mini Calendar is a simple web project that displays the current date, 
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Mini-Calendar/
+    https://rashwanthashok.github.io/Mini-Calender/
 ## Getting Started:
 
 To use the Rashwanth Mini Calendar web page, follow these steps:
