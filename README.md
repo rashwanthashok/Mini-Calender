@@ -72,6 +72,11 @@ Feel free to customize and tailor the code further to suit your specific needs o
 - Responsive layout that adapts to different screen sizes.
 
 - Easy to integrate into any website or project.
+
+## Deployement status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c98891ee-1188-4c37-8dc1-eac0c2c7a002/deploy-status)](https://app.netlify.com/sites/jsprojects23-mini-calender/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
